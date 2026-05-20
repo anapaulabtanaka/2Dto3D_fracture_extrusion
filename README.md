@@ -1,2 +1,2 @@
 # fracextrude
-Tests for transforming 2D fracture networks in 3D
+Transforming 2D fracture networks in 3D frameworks with dips and extrusion.
