@@ -1,7 +1,7 @@
 # fracextrude
 Transforming 2D fracture networks in 3D frameworks with dips and extrusion.
 <br>
-<img src="./cover/tsan3d" alt="tsan3d">
+<img src="./cover/tsan3d.png" alt="tsan3d">
 
 <br/>
 
