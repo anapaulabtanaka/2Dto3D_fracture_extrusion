@@ -6,7 +6,7 @@ Transforming 2D fracture networks in 3D frameworks with dips and extrusion.
 <br/>
 
 This repository is associated with my phD research.
-The aim is to test different approaches to extrude a 2D fracture network graph to a a 3D framework.
+The aim is to extrude a 2D fracture network graph to a 3D framework and test different approaches to generate 3D graphs from the 3D framework.
 
 
 <br/>
